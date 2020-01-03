@@ -23,7 +23,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="18" selection-start-column="18" selection-end-column="18" />
+                <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578022055317</updated>
-      <workItem from="1578022056794" duration="1338000" />
+      <workItem from="1578022056794" duration="1516000" />
     </task>
     <task id="LOCAL-00001" summary="提交测试">
       <created>1578022884286</created>
@@ -145,11 +145,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578023394396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交测试">
+      <created>1578023426004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578023426004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1338000" />
+    <option name="totallyTimeSpent" value="1516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -207,7 +214,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
